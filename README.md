@@ -30,8 +30,10 @@ I'm currently looking for opportunities as a Data Analyst or BI Analyst while co
 
 ## 🌱 Currently Learning 
 
-- [A new skill or technology you're exploring, e.g., Advanced machine learning techniques in Scikit-learn.]
-- [Another skill, e.g., Cloud data warehousing with Google BigQuery.]
+- Python (Pandas & NumPy)
+- Databricks
+- Azure Data Fundamentals
+- Google BigQuery (Cloud Data Warehousing)
 
 ## 🛠️ Technical Skillset
 
