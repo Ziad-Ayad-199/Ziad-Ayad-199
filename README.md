@@ -24,7 +24,7 @@ I'm currently looking for opportunities as a Data Analyst or BI Analyst while co
       
 ## 🔭 What I'm Currently Working On 
 
-- **Project A:** [Brief, one-line description of a project, e.g., Building a sales forecasting model in Python.]  
+- **European Pharmacy Sales Analysis:** Analyzing pharmaceutical sales data using Excel, SQL, and Power BI to uncover sales trends and business insights.  
 - **Project B:** [Brief, one-line description of another project, e.g., Creating an interactive marketing dashboard in Power BI.]
 - **Content Creation:** [e.g., Developing new tutorials on data visualization for my YouTube channel.]
 
