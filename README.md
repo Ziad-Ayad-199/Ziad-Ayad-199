@@ -15,7 +15,7 @@
 ## 🚀 About Me 
 I'm a Computer Science graduate passionate about transforming data into actionable insights.
 
-I enjoy working with SQL, Excel, and Power BI to solve business problems through data. I enjoy transforming complex, messy datasets into clear stories and actionable insights. I love the "aha!" moment when data reveals something new and useful.
+I enjoy working with SQL, Excel, and Power BI to solve business problems through data. I love transforming complex, messy datasets into clear stories and actionable insights, and there's nothing more rewarding than the "aha!" moment when data reveals something new and valuable
 
 I'm currently looking for opportunities as a Data Analyst or BI Analyst while continuously expanding my technical skills.
 
