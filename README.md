@@ -25,8 +25,8 @@ I'm currently looking for opportunities as a Data Analyst or BI Analyst while co
 ## 🔭 What I'm Currently Working On 
 
 - **European Pharmacy Sales Analysis:** Analyzing pharmaceutical sales data using Excel, SQL, and Power BI to uncover sales trends and business insights.  
-- **Project B:** [Brief, one-line description of another project, e.g., Creating an interactive marketing dashboard in Power BI.]
-- **Content Creation:** [e.g., Developing new tutorials on data visualization for my YouTube channel.]
+- **Student Stress & Study Behavior:** Building an interactive Power BI dashboard to explore the relationship between study habits, stress levels, and academic performance.
+- **Sales Performance Root Cause Analysis:** Investigating declining sales using Excel to identify key drivers, perform root cause analysis, and provide data-driven recommendations.
 
 ## 🌱 Currently Learning 
 
